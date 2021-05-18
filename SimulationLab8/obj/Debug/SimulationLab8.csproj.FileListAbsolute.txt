@@ -1,0 +1,10 @@
+C:\Users\Вадим\source\repos\SimulationLab8\SimulationLab8\bin\Debug\SimulationLab8.exe.config
+C:\Users\Вадим\source\repos\SimulationLab8\SimulationLab8\bin\Debug\SimulationLab8.exe
+C:\Users\Вадим\source\repos\SimulationLab8\SimulationLab8\bin\Debug\SimulationLab8.pdb
+C:\Users\Вадим\source\repos\SimulationLab8\SimulationLab8\obj\Debug\SimulationLab8.csprojAssemblyReference.cache
+C:\Users\Вадим\source\repos\SimulationLab8\SimulationLab8\obj\Debug\SimulationLab8.Form1.resources
+C:\Users\Вадим\source\repos\SimulationLab8\SimulationLab8\obj\Debug\SimulationLab8.Properties.Resources.resources
+C:\Users\Вадим\source\repos\SimulationLab8\SimulationLab8\obj\Debug\SimulationLab8.csproj.GenerateResource.cache
+C:\Users\Вадим\source\repos\SimulationLab8\SimulationLab8\obj\Debug\SimulationLab8.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\SimulationLab8\SimulationLab8\obj\Debug\SimulationLab8.exe
+C:\Users\Вадим\source\repos\SimulationLab8\SimulationLab8\obj\Debug\SimulationLab8.pdb
